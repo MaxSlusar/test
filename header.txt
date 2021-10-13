@@ -1,2 +1,4 @@
 Some text for header
-Hello. changes trom <master> - new shanges!!!
+Hello. changes trom <master>
+Hello. Changes for <first>
+Text from master: new shanges!!!
